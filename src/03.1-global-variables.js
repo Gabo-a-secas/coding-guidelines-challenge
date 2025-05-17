@@ -14,6 +14,6 @@ function accumulate(x) {
 
 add(5, 10);
 console.log(result);
-subtract(6, 12);
 accumulate(6);
+subtract(6, 12);
 console.log(result);
